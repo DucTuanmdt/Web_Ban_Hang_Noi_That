@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:22:39:50 -0700] "GET /WebBanHangNoiThat HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:22:39:52 -0700] "GET /WebBanHangNoiThat/ HTTP/1.1" 200 57 http-bio-8080-exec-3 1965
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:23:07:45 -0700] "GET /WebBanHangNoiThat/ HTTP/1.1" 200 57 http-bio-8080-exec-1 3760
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:23:07:48 -0700] "GET /WebBanHangNoiThat/home HTTP/1.1" 200 57 http-bio-8080-exec-3 12
+0:0:0:0:0:0:0:1 - - [18/Oct/2018:23:10:36 -0700] "GET /WebBanHangNoiThat/test HTTP/1.1" 200 151 http-bio-8080-exec-1 1947
